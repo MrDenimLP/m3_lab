@@ -1,7 +1,8 @@
 ## Module 3: Lab Activity programs ##
 
 # What is this project? #
-    This repo is a collection of programs created for the 3rd Module of a CSS 255 class.
+    This repo is a collection of programs created for the 3rd Module
+    of a CSS 255 class.
 
 # Build Status #
     Complete
