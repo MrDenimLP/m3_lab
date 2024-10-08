@@ -18,7 +18,7 @@
 
 # How to use? #
     First, ensure that python3 is installed on your machine.
-    Second, down and run the program.
+    Second, download and run the program.
     Third, ???
     Fourth, profit.
 
